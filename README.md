@@ -1,3 +1,3 @@
 # hiku-landing-page-bootstrap5
 
-Lnading page with bootstrap 6
+Landing page with bootstrap 6
